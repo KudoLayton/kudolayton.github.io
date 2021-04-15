@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: ""
+url: "https://kudolayton.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: 쿠도컴왕의 개발 일기
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  gravatar: 23204af6a771ba915aa41f7f0f3e62aa
+  description: "개발을 기록하다" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -22,7 +22,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: lhslhg(at)gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
