@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Obsidian integration.md",
+                "file": "_notes/Excalidraw test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Obsidian integration.md",
+                "file": "_notes/Excalidraw test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Obsidian integration.md",
+                "file": "_notes/Excalidraw test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Obsidian integration.md"
+                "file": "_notes/Excalidraw test.md"
               }
             }
           }
@@ -151,6 +151,12 @@
   },
   "active": "91dc7d335a82b15a",
   "lastOpenFiles": [
+    "assets/img/Excalidraw test 2023-12-27 00.57.58.excalidraw.md",
+    "_notes/Excalidraw test.md",
+    "assets/img/Excalidraw test 2023-12-27 00.57.58.excalidraw.svg",
+    "assets/img/Excalidraw test 2023-12-27 00.53.27.excalidraw.md",
+    "assets/img/Excalidraw test 2023-12-27 00.53.27.excalidraw.png",
+    "_notes/Obsidian integration.md",
     "_notes/How-to-setup-this-site.md",
     "_notes/how-markdown-is-rendered.md",
     "_notes/How to use the special features.md",
@@ -163,7 +169,6 @@
     "README.md",
     "_notes/tet.md",
     "_notes/face.md",
-    "_notes/Obsidian integration.md",
     "templates"
   ]
 }
