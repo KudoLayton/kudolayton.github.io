@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "63924e580c3324be",
+    "type": "split",
+    "children": [
+      {
+        "id": "363f1d971ce2b331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91dc7d335a82b15a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Obsidian integration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a29267cb45ea5781",
+    "type": "split",
+    "children": [
+      {
+        "id": "654d95b2302c13ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d82ffedd127e77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e85a8f515d36703",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "229e2414fce6d53b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a16201d896d7e8c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d10e9412574f4ae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b2fef0436f3689",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Obsidian integration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc1fbfef09b9cf07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/Obsidian integration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eae0cb62290458a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65e27222c720c11f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Obsidian integration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "91dc7d335a82b15a",
+  "lastOpenFiles": [
+    "_notes/How-to-setup-this-site.md",
+    "_notes/how-markdown-is-rendered.md",
+    "_notes/How to use the special features.md",
+    "templates/Page Template.md",
+    "_notes/test.md",
+    "_notes/우리는 무엇을 해야하는가.md",
+    "_notes/asdf.md",
+    "_notes/무제 파일.md",
+    "index.md",
+    "README.md",
+    "_notes/tet.md",
+    "_notes/face.md",
+    "_notes/Obsidian integration.md",
+    "templates"
+  ]
+}
